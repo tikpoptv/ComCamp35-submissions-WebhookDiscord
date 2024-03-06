@@ -1,0 +1,16 @@
+{
+  "name": "ComCamp35_submissions_WebhookDiscord",
+  "version": "1.0.0",
+  "description": "My awesome project",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "TIKXD <tik.jedsdp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "pg": "^8.7.1",
+    "dotenv": "^10.0.0"
+  }
+}

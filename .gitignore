@@ -1,0 +1,17 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore lastCheckedUserId.json file
+lastCheckedUserId.json
+
+# Ignore any log files
+*.log
+
+.DS_Store
+
+package-lock.json
+
+tempCodeRunnerFile.js
