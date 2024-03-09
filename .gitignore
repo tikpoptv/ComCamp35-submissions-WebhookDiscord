@@ -5,7 +5,7 @@ node_modules/
 .env
 
 # Ignore lastCheckedUserId.json file
-lastCheckedUserId.json
+# lastCheckedUserId.json
 
 # Ignore any log files
 *.log
